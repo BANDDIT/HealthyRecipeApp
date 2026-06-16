@@ -18,10 +18,21 @@ This project focuses on UI/Frontend only, showcasing the design and user experie
 - SVG Asset Integration
 
 ## Preview
-<div style="display: flex; gap: 16px; justify-content: center;">
-  <img alt="Simulator Screenshot - iPhone 16 - 2026-06-16 at 07 53 57" src="https://github.com/user-attachments/assets/24e2dcf7-7849-4b88-ae91-2a0211299c0e" width="300" style="border-radius: 20px; border: 1px solid #ddd;" />
-  <img alt="Simulator Screenshot - iPhone 16 - 2026-06-16 at 07 54 05" src="https://github.com/user-attachments/assets/705a571d-9200-4d3e-b90c-e55e3692b538" width="300" style="border-radius: 20px; border: 1px solid #ddd;" />
-</div>
+<table align="center">
+<tr>
+<td style="padding: 0 10px;">
+<img src="https://github.com/user-attachments/assets/24e2dcf7-7849-4b88-ae91-2a0211299c0e"
+width="300"
+style="border:1px solid #ddd; border-radius:18px;" />
+</td>
+
+<td style="padding: 0 10px;">
+<img src="https://github.com/user-attachments/assets/705a571d-9200-4d3e-b90c-e55e3692b538"
+width="300"
+style="border:1px solid #ddd; border-radius:18px;" />
+</td>
+</tr>
+</table>
 
 ## Getting Started
 This project is a starting point for a Flutter application.
