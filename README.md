@@ -18,8 +18,8 @@ This project focuses on UI/Frontend only, showcasing the design and user experie
 - SVG Asset Integration
 
 ## Preview
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-06-16 at 07 53 57" src="https://github.com/user-attachments/assets/24e2dcf7-7849-4b88-ae91-2a0211299c0e" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-06-16 at 07 54 05" src="https://github.com/user-attachments/assets/705a571d-9200-4d3e-b90c-e55e3692b538" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 - 2026-06-16 at 07 53 57" src="https://github.com/user-attachments/assets/24e2dcf7-7849-4b88-ae91-2a0211299c0e" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 - 2026-06-16 at 07 54 05" src="https://github.com/user-attachments/assets/705a571d-9200-4d3e-b90c-e55e3692b538" />
 
 
 ## Getting Started
